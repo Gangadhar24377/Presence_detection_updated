@@ -1,0 +1,4 @@
+- data is very biased.
+- The output shows a significant imbalance in your dataset, with 3671 samples labeled as 1 (human present) and only 4 samples labeled as 0 (no human present).
+- we need to collect better data.
+- For example i have run a logistic regression on the cleaned data for u guys to understand why need to collect better data.
